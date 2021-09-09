@@ -1,0 +1,11 @@
+D:\Coding\test\calculator\calculator.Test\bin\Debug\calculator.Test.dll
+D:\Coding\test\calculator\calculator.Test\bin\Debug\calculator.Test.pdb
+D:\Coding\test\calculator\calculator.Test\bin\Debug\calculator.dll
+D:\Coding\test\calculator\calculator.Test\bin\Debug\nunit.framework.dll
+D:\Coding\test\calculator\calculator.Test\bin\Debug\calculator.pdb
+D:\Coding\test\calculator\calculator.Test\bin\Debug\nunit.framework.xml
+D:\Coding\test\calculator\calculator.Test\obj\Debug\calculator.Test.csprojAssemblyReference.cache
+D:\Coding\test\calculator\calculator.Test\obj\Debug\calculator.Test.csproj.CoreCompileInputs.cache
+D:\Coding\test\calculator\calculator.Test\obj\Debug\calculator.Test.csproj.CopyComplete
+D:\Coding\test\calculator\calculator.Test\obj\Debug\calculator.Test.dll
+D:\Coding\test\calculator\calculator.Test\obj\Debug\calculator.Test.pdb
